@@ -1,7 +1,11 @@
 Steganography Project
-Introduction
+
+
+Introduction:
 This project focuses on securing data hidden within steganographic images using advanced encryption techniques. By embedding secret messages within image files, this project ensures data integrity and protects against unauthorized access.
-Features
+
+
+Features:
 
 
 •	Enhanced Security Algorithms: Utilizes robust encryption methods to secure hidden data.
@@ -10,26 +14,29 @@ Features
 •	User-Friendly Interface: Simplifies the process of embedding and extracting hidden data.
 
 
-Installation
-1.	Clone the repository:
-               	Bash:  git clone https://github.com/ARE-IMANTH/Steganography-Project.git
+Installation:
+
+1.	Clone the python script.
 
 2.	Install the required libraries:
 
 
 Usage:
+
 1.	Run the python script:
 2.	In the python script, insert the image filename.
 3.	Follow the prompts to enter the message, and encryption key.
 
 
-Code Explanation
+Code Explanation:
+
 The code consists of two main functions:
 •	Encryption: Encrypts the image by embedding the message and key within the image pixels.
 •	Decryption: Decrypts the image and retrieves the hidden message using the provided key.
 
 
 Example:
+
 1.	Place an image file (e.g., image.jpg) in the project's directory.
 2.	Run the script and provide the image name in the script, message, and encryption key when prompted.
 3.	The encrypted image will be saved and displayed.
