@@ -4,8 +4,8 @@ import string
 
 img = cv2.imread("doggie.jpg") # Replace with the correct image path
 
-msg = input("Enter secret message: ")
-password = input("Enter a passcode: ")
+msg = input("Enter secret message: ") #enter the message that wants to be embedded
+password = input("Enter a passcode: ") #enter the encryption password
 d = {}
 c = {}
 
@@ -17,7 +17,7 @@ m = 0
 n = 0
 z = 0
 
-for i in range(len(msg)):
+for i in range(len(msg)): #encyption technique
     img[n, m, z] = d[msg[i]]
     n = n + 1
     m = m + 1
@@ -31,7 +31,7 @@ n = 0
 m = 0
 z = 0
 
-pas = input("Enter passcode for Decryption: ")
+pas = input("Enter passcode for Decryption: ") #decryption technique
 if password == pas:
     for i in range(len(msg)):
         message = message + c[img[n, m, z]]
