@@ -2,7 +2,7 @@ import cv2
 import os
 import string
 
-img = cv2.imread("doggie.jpg") # Replace with the correct image path
+img = cv2.imread("examplePic.jpg") # Replace with the correct image path
 
 msg = input("Enter secret message: ") #enter the message that wants to be embedded
 password = input("Enter a passcode: ") #enter the encryption password
@@ -23,7 +23,7 @@ for i in range(len(msg)): #encyption technique
     m = m + 1
     z = (z + 1) % 3
 
-cv2.imwrite("encryptedImage(3).jpg", img)
+cv2.imwrite("encryptedImage.jpg", img)
 os.system("start encryptedImage.jpg")  # Use 'start' to open the image on Windows
 
 message = ""
