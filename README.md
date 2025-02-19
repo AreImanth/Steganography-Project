@@ -47,10 +47,15 @@ Future Scope:
 
 
 •	Integration with Blockchain Technology: Enhance security and traceability.
+
 •	Real-Time Steganography in Multimedia Streaming: Secure communication channels for live video and audio streams.
+
 •	AI and Machine Learning for Steganalysis: Improve detection and analysis of hidden data.
+
 •	Cross-Platform Compatibility: Ensure compatibility across different operating systems and devices.
+
 •	Advanced Encryption Techniques: Continuously improve encryption methods.
+
 •	Secure Communication for IoT Devices: Protect data transmitted between smart devices.
 
 
