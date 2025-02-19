@@ -2,7 +2,7 @@ import cv2
 import os
 import string
 
-img = cv2.imread("examplePic.jpg") # Replace with the correct image path
+img = cv2.imread("mypic.jpg") # Replace with the correct image path
 
 msg = input("Enter secret message: ") #enter the message that wants to be embedded
 password = input("Enter a passcode: ") #enter the encryption password
