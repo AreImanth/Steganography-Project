@@ -45,7 +45,7 @@ The code consists of two main functions:
    
    ![stego_pics 3](https://github.com/user-attachments/assets/cae27137-8e07-43e9-abe1-429452e515bf)
 
-##4. Extracting the message with actual key.
+## 4. Extracting the message with actual key.
    
    ![stego_pics 4](https://github.com/user-attachments/assets/02a4cfe7-57dd-4b11-97e6-33374ee38927)
 
