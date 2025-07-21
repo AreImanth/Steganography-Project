@@ -69,6 +69,3 @@ The code consists of two main functions:
 *	Secure Communication for IoT Devices: Protect data transmitted between smart devices.
 
 
-## Contributing:
-Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
-
