@@ -68,4 +68,14 @@ The code consists of two main functions:
 *	Advanced Encryption Techniques: Continuously improve encryption methods.
 *	Secure Communication for IoT Devices: Protect data transmitted between smart devices.
 
+## Results using the GUI:
+1. The representation of the GUI
+   ![stego_pics 1](https://github.com/user-attachments/assets/e85b65f0-b109-4e5e-9d63-b4400136acce)
+2. Uploading a file and using encryption techniques to hide the data in the file.
+   ![stego_pics 2](https://github.com/user-attachments/assets/44ae7b24-dc97-4e22-9aa6-5485dd8a9990)
+3. Extracting the message using the decryption methods[when entered the wrong decryption key].
+   ![stego_pics 3](https://github.com/user-attachments/assets/cae27137-8e07-43e9-abe1-429452e515bf)
+4. Extracting the message with actual key.
+    ![stego_pics 4](https://github.com/user-attachments/assets/02a4cfe7-57dd-4b11-97e6-33374ee38927)
+
 
